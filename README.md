@@ -28,12 +28,6 @@
 
 <br clear="both">
 
-<!-- Snake needs the Platane/snk workflow in .github/workflows/ to generate the
-     snake-output branch. Delete this block if you don't want to set that up. -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mths0/mths0/snake-output/snake.svg" alt="Snake animation" />
-</div>
-
 ###
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
